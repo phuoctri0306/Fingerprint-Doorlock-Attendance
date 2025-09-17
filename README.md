@@ -43,4 +43,4 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 ---
 
 ## Tài liệu chi tiết
-Tài liệu yêu cầu đầy đủ được lưu trong thư mục [docs/Requirement_FacePIN_Lock_Full.pdf](./docs/Requirement_FacePIN_Lock_Full.pdf).
+Tài liệu yêu cầu đầy đủ được lưu trong thư mục [Requirement_FacePIN_Lock_Full.pdf](./Requirement_FacePIN_Lock_Full.pdf).
