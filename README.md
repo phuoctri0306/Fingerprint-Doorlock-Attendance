@@ -32,8 +32,7 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 - [x] Tuần 1: Tìm hiểu và lựa chọn đề tài để lên kế hoạch 
 - [x] Tuần 2: Thống nhất đề tài cửa thông minh và sẽ mở bằng khuôn mặt 
 - [x] Tuần 3: Đặt ra những yêu cầu về sản phẩm và tiến hành nghiên cứu, tìm kiếm mạch phù hợp cho dự án,tìm hiểu và học các code phù hợp
-- [ ] Tuần 4: Mua mạch và các linh kiện cần thiết để tiến hành dự án
-- [ ] 
+- [ ] Tuần 4: Mua mạch và các linh kiện cần thiết để tiến hành dự án,
 
 ---
 
