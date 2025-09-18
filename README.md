@@ -17,7 +17,7 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 ---
 
 ## Công nghệ & Thành phần sử dụng
-- **Phần cứng**: Camera Module, Bàn phím số (Keypad), Vi điều khiển (Raspberry Pi), Buzzer/Relay.  
+- **Phần cứng**: Camera Module, Bàn phím số (Keypad), Vi xử lý (chưa chốt), Buzzer/Relay.  
 - **Phần mềm**: Python / C / C++ (tùy nền tảng vi điều khiển).  
 - **Công cụ**: OpenCV (cho nhận diện khuôn mặt), Arduino IDE / PlatformIO.  
 - **Quản lý phiên bản**: GitHub để theo dõi tiến độ dự án.  
