@@ -1,15 +1,15 @@
-# FacePIN-SmartLock-with-Alarm
-Bộ khóa thông minh Face &amp; PIN với cảnh báo” là một hệ thống khóa điện tử hiện đại, kết hợp công nghệ nhận diện khuôn mặt và mật mã PIN để tăng cường bảo mật. Ngoài ra, hệ thống được tích hợp cơ chế cảnh báo khi phát hiện truy cập trái phép, giúp đảm bảo an toàn cho nhà ở và văn phòng. 
-# Khóa cửa thông minh với Nhận diện khuôn mặt, PIN & Cảnh báo
+# Hệ thống điểm danh và mở cửa
+Bộ khóa thông minh Vân tay, PIN với cảnh báo” tích hợp điểm danh là một hệ thống khóa điện tử hiện đại, kết hợp công nghệ quét vân tay và mật mã PIN để tăng cường bảo mật. Ngoài ra, hệ thống được tích hợp cơ chế cảnh báo khi phát hiện truy cập trái phép, giúp đảm bảo an toàn cho công ty và văn phòng. 
+# Khóa cửa thông minh với quét vân tay, PIN & Cảnh báo
 
 ## Tổng quan dự án
-Dự án này phát triển một **hệ thống khóa cửa thông minh** kết hợp giữa **nhận diện khuôn mặt** và **mã PIN** để xác thực, đồng thời tích hợp **cơ chế cảnh báo** nhằm tăng cường mức độ an ninh.  
+Dự án này phát triển một **hệ thống khóa cửa thông minh** kết hợp giữa **quét vân tay** và **mã PIN** để xác thực, đồng thời tích hợp **cơ chế cảnh báo** nhằm tăng cường mức độ an ninh.  
 Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin cậy, hiện đại và thân thiện với người dùng**, phù hợp cho gia đình và văn phòng.
 
 ---
 
 ## Mục tiêu
-- Triển khai xác thực hai lớp: **Nhận diện khuôn mặt + Mã PIN**.  
+- Triển khai xác thực hai lớp: **Quét vân tay + Mã PIN**.  
 - Tích hợp **hệ thống cảnh báo** (chuông/buzzer hoặc thông báo) khi có hành vi truy cập trái phép.  
 - Thiết kế nguyên mẫu phần cứng dựa trên **hệ thống nhúng + IoT**.  
 - Đảm bảo giải pháp **an toàn, tiện lợi và có khả năng mở rộng**.  
@@ -17,7 +17,7 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 ---
 
 ## Công nghệ & Thành phần sử dụng
-- **Phần cứng**: Camera Module, Bàn phím số (Keypad), Vi xử lý (chưa chốt), Buzzer/Relay.  
+- **Phần cứng**: Camera Module, Bàn phím số (Keypad), Vi xử lý ESP32, Buzzer/Relay.  
 - **Phần mềm**: Python / C / C++ (tùy nền tảng vi điều khiển).  
 - **Công cụ**: OpenCV (cho nhận diện khuôn mặt), Arduino IDE / PlatformIO.  
 - **Quản lý phiên bản**: GitHub để theo dõi tiến độ dự án.  
@@ -33,7 +33,7 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 - [x] Tuần 2: Thống nhất đề tài cửa thông minh và sẽ mở bằng khuôn mặt 
 - [x] Tuần 3: Đặt ra những yêu cầu về sản phẩm và tiến hành nghiên cứu, tìm kiếm mạch phù hợp cho dự án,tìm hiểu và học các code phù hợp
 - [x] Tuần 4: Mua mạch và các linh kiện cần thiết để tiến hành dự án,thay đổi vi điều khiển thành vi xử lý để đúng yêu cầu.
-- [ ] Tuần 5: Sửa lại file Requirement để đầy đủ nhất,
+- [ ] Tuần 5: Sửa lại file Requirement để đầy đủ nhất thay đổi đề tài từ FacePIN-SmartLock-with-Alarm sang Hệ thống điểm danh và mở cửa
 
 ---
 
@@ -44,7 +44,6 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 ---
 
 ## Tài liệu chi tiết
-- [Requirement Document](./Requirement_FacePIN_Lock_Full.pdf)  
 - [Function Usecase Document](./Function_Usecase.pdf)
 
 
