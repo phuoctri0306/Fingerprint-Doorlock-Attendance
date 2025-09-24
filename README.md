@@ -44,6 +44,6 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 
 ## Tài liệu chi tiết
 - [Requirement Document](./docs/Requirement_FacePIN_Lock_Full.pdf)  
-- [Function & Usecase Document](./docs/Function_Usecase.pdf)
+- [Function_Usecase Document](./docs/Function_Usecase.pdf)
 
 
