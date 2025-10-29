@@ -33,9 +33,9 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 - [x] Tuần 2: Thống nhất đề tài cửa thông minh và sẽ mở bằng khuôn mặt 
 - [x] Tuần 3: Đặt ra những yêu cầu về sản phẩm và tiến hành nghiên cứu, tìm kiếm mạch phù hợp cho dự án,tìm hiểu và học các code phù hợp
 - [x] Tuần 4: Mua mạch và các linh kiện cần thiết để tiến hành dự án,thay đổi vi điều khiển thành vi xử lý để đúng yêu cầu.
-- [ ] Tuần 5: Sửa lại file Requirement để đầy đủ nhất thay đổi đề tài từ FacePIN-SmartLock-with-Alarm sang Hệ thống điểm danh và mở cửa
-
----
+- [x] Tuần 5: Sửa lại file Requirement để đầy đủ nhất thay đổi đề tài từ FacePIN-SmartLock-with-Alarm sang Hệ thống điểm danh và mở cửa.
+- [x] Tuần 6: Thiết kế Schematic cho dự án trên Altium.
+- [ ] Tuần 7: Chỉnh sửa và vẽ trên Altium cho từng linh kiện.
 
 ## Thành viên nhóm
 - Phạm Ngọc Bảo
