@@ -48,7 +48,7 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 
 ## Tài liệu chi tiết
 - [Function Usecase Document](./Function_Usecase.pdf)
-- 
+- [Function Usecase Updated] (./Functionality.pdf)
 
 
 
