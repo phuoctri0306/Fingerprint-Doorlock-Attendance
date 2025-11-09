@@ -49,6 +49,7 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 ## Tài liệu chi tiết
 - [Function Usecase Document](./Function_Usecase.pdf)
 - [Function Usecase Updated](./Functionality.pdf)
-
+- [Test code demo](./test1.zip)
+- [Test demo sản phẩm](VideoDemosanpham.MP4)
 
 
