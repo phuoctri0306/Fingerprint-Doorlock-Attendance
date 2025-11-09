@@ -19,7 +19,7 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 ## Công nghệ & Thành phần sử dụng
 - **Phần cứng**: Camera Module, Bàn phím số (Keypad), Vi xử lý ESP32, Buzzer/Relay.  
 - **Phần mềm**: Python / C / C++ (tùy nền tảng vi điều khiển).  
-- **Công cụ**: OpenCV (cho nhận diện khuôn mặt), Arduino IDE / PlatformIO.  
+- **Công cụ**: Arduino IDE / PlatformIO.  
 - **Quản lý phiên bản**: GitHub để theo dõi tiến độ dự án.  
 
 ---
@@ -35,7 +35,10 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 - [x] Tuần 4: Mua mạch và các linh kiện cần thiết để tiến hành dự án,thay đổi vi điều khiển thành vi xử lý để đúng yêu cầu.
 - [x] Tuần 5: Sửa lại file Requirement để đầy đủ nhất thay đổi đề tài từ FacePIN-SmartLock-with-Alarm sang Hệ thống điểm danh và mở cửa.
 - [x] Tuần 6: Thiết kế Schematic cho dự án trên Altium.
-- [ ] Tuần 7: Chỉnh sửa và vẽ trên Altium cho từng linh kiện.
+- [x] Tuần 7: Chỉnh sửa và vẽ trên Altium cho từng linh kiện.
+- [x] Tuần 8: Chỉnh sửa lại Schematic 
+- [x] Tuần 9: Lập trình mô phỏng và mô phỏng demo cho dự án.
+- [x] Tuần 10: Báo cáo và chỉnh sửa theo hướng dẫn của Thầy.
 
 ## Thành viên nhóm
 - Phạm Ngọc Bảo
@@ -45,6 +48,7 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 
 ## Tài liệu chi tiết
 - [Function Usecase Document](./Function_Usecase.pdf)
+- 
 
 
 
