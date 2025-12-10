@@ -56,6 +56,5 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 - [Schematic hiện tại](./SchematicN5.pdf)
 - [Test code demo](./test1.zip)
 - [Test demo sản phẩm](VideoDemosanpham.MP4)
-- [File báo cáo sản phẩm](./Báo\ cáo\ đề\ tài\ Hệ\ Thống\ Nhúng.pdf)
 
 
