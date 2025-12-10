@@ -1,4 +1,4 @@
-# Hệ thống điểm danh và mở cửa
+e# Hệ thống điểm danh và mở cửa
 Bộ khóa thông minh Vân tay, PIN với cảnh báo” tích hợp điểm danh là một hệ thống khóa điện tử hiện đại, kết hợp công nghệ quét vân tay và mật mã PIN để tăng cường bảo mật. Ngoài ra, hệ thống được tích hợp cơ chế cảnh báo khi phát hiện truy cập trái phép, giúp đảm bảo an toàn cho công ty và văn phòng. 
 
 ## Tổng quan dự án
@@ -56,5 +56,6 @@ Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin c�
 - [Schematic hiện tại](./SchematicN5.pdf)
 - [Test code demo](./test1.zip)
 - [Test demo sản phẩm](VideoDemosanpham.MP4)
-- [File báo cáo sản phầm](./Báo cáo đề tài Hệ Thống Nhúng.pdf)
+- [File báo cáo sản phẩm](./Báo\ cáo\ đề\ tài\ Hệ\ Thống\ Nhúng.pdf)
+
 
